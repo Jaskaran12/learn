@@ -1,3 +1,4 @@
+/*BUILD CHALLENGES.js */
 /* eslint-disable no-process-exit */
 require('babel-register');
 require('dotenv').load();
